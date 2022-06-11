@@ -1,0 +1,92 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+background-image: url('back.jpg');
+
+
+}
+
+.backcolor{
+  width: 100vw;
+  height: 100vh;
+  background-color: #030209d6;
+}
+
+center{
+  padding-top: 90px;
+}
+.login{
+  font-size: 60px;
+}
+h1{
+  color: white;
+  font-family: 'Baloo Tammudu 2', cursive;
+  cursor: pointer;
+}
+
+h1 span {
+  color: orange;
+}
+
+
+.inputbar {
+  margin-top: 50px;
+}
+
+i{
+  color: white;
+}
+
+.textfield1 {
+  color: white;
+  border: none;
+  padding-top: 5px;
+  background: none;
+  border-bottom: 1px solid white;
+  margin-left: 2px;
+  padding-bottom: 8px;
+  width: 300px;
+  padding-left: 2px;
+  outline: none;
+  margin-bottom: 25px;
+}
+.textfield2 {
+  color: white;
+  border: none;
+  padding-top: 5px;
+  background: none;
+  border-bottom: 1px solid white;
+  margin-left: 2px;
+  padding-bottom: 8px;
+  width: 300px;
+  padding-left: 2px;
+  outline: none;
+  margin-bottom: 15px;
+}
+
+.check {
+  margin-left: 40px;
+}
+.spantext{
+    font-family: 'Baloo Tammudu 2', cursive;
+    color: lightgray;
+}
+
+.forgotpassword {
+  margin-left: 50px;
+  color: white;
+}
+
+
+.btndesing{
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 20px;
+    width: 150px;
+    background-color: orange;
+    height: 35px;
+    border-radius: 40px;
+    cursor: pointer;
+}
